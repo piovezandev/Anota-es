@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="texto_anotacao">30sp</dimen>
+    <dimen name="dimensao1">320dp</dimen>
+    <dimen name="dimensao2">360dp</dimen>
+</resources>
